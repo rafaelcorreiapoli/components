@@ -37,6 +37,6 @@
     ]
   },
   "dependencies": {
-
+    "@rafa93br/toposort": "^1.0.0"
   }
 }

@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@rafa93br/toposort@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@rafa93br/toposort/-/toposort-1.0.0.tgz#90fabf9f516a598bdd27f2bb29e4d8078d4ba1ff"
+
 abab@^1.0.3:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/abab/-/abab-1.0.4.tgz#5faad9c2c07f60dd76770f71cf025b62a63cfd4e"

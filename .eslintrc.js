@@ -4,6 +4,9 @@ const config = {
   "plugins": [
     "react"
   ],
+  "env": {
+    "jest": true
+  },
   "globals": {}, // added programatically later
   "rules": {
     "max-len": 0,
